@@ -14,6 +14,8 @@ https://www.asciiart.eu/animals
 
 https://www.asciiart.eu/animals/cows
 https://www.asciiart.eu/animals/frogs
+
+uzet a onog profilA za edit i inspo, neke s oblacicima i bojama u kojima su navedeni skillsi
  -->
 
 
