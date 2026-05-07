@@ -15,6 +15,8 @@ https://www.figma.com/files/team/1075068422278464665/all-projects
 
 uzet ono iz music cataloga i staviti tipa: Ovaj repozitorij služi kao potrfolio gdje su javno dostupni moji radovi....
 
+
+Bruh, kad će to više? 
 <!--
 FIGMA PORTFOLIO, UREDITI KADA BUDE KONAČNO.
 
