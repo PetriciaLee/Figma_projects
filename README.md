@@ -10,6 +10,7 @@ uzet a onog profilA za edit i inspo, neke s oblacicima i bojama u kojima su nave
 
 # Figma_projects
 
+⚠️🚧🛠️ STILL IN PROGRESS!!!!!!
 
 https://www.figma.com/files/team/1075068422278464665/all-projects 
 
@@ -41,6 +42,6 @@ FIGMA PORTFOLIO, UREDITI KADA BUDE KONAČNO.
 --> 
 
 ---
-STILL IN PROGRESS!
+
 
    
