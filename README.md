@@ -18,6 +18,8 @@ uzet ono iz music cataloga i staviti tipa: Ovaj repozitorij služi kao potrfolio
 
 
 Bruh, kad će to više? 
+
+ASAPPPP!!!
 <!--
 FIGMA PORTFOLIO, UREDITI KADA BUDE KONAČNO.
 
