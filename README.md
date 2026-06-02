@@ -12,6 +12,8 @@ uzet a onog profilA za edit i inspo, neke s oblacicima i bojama u kojima su nave
 
 ⚠️🚧🛠️ STILL IN PROGRESS!!!!!!
 
+<!---
+
 https://www.figma.com/files/team/1075068422278464665/all-projects 
 
 uzet ono iz music cataloga i staviti tipa: Ovaj repozitorij služi kao potrfolio gdje su javno dostupni moji radovi....
@@ -20,7 +22,7 @@ uzet ono iz music cataloga i staviti tipa: Ovaj repozitorij služi kao potrfolio
 Bruh, kad će to više? 
 
 ASAPPPP!!!
-<!--
+
 FIGMA PORTFOLIO, UREDITI KADA BUDE KONAČNO.
 
 <!DOCTYPE html>
